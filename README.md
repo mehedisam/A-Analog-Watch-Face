@@ -7,8 +7,8 @@
 
 ### 2. **Dynamic Battery Indicator**
 - Displays the battery status with a color-coded indicator:
-  - **Green**: When the battery level is 20% or above.
-  - **Red**: When the battery level falls below 20%, signaling low power.
+  - **Green**: When the battery level is above 20%.
+  - **Red**: When the battery level falls below and equal 20%, signaling low power.
 
 ## Description
 This custom Wear OS watch face combines functionality with style. The clear hour and minute ticks ensure a straightforward reading experience, while the dynamic battery indicator adds a practical touch, alerting users visually when the battery is running low.
@@ -18,9 +18,14 @@ The watch face is designed to be:
 - **Elegant**: Aesthetic design with minimal yet effective elements.
 - **Functional**: Real-time battery monitoring with clear visual cues.
 
-## Use Cases
-- Everyday wear for users who want a simple, clean design.
-- Ideal for people who prefer visual alerts for critical battery levels.
+## Screenshots
+
+### 1. Watch Face with Battery Above 20%
+![Watch Face - Green Battery](images/picture1.jpg)
+
+### 2. Watch Face with Battery Below and Equal to 20%
+![Watch Face - Red Battery](images/picture2.jpg)
+
 
 ---
 
