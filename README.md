@@ -26,7 +26,3 @@ The watch face is designed to be:
 ### 2. Watch Face with Battery Below and Equal to 20%
 ![Watch Face - Red Battery](images/picture2.jpg)
 
-
----
-
-Feel free to reach out for customizations or to provide feedback on this watch face!
