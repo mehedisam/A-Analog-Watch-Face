@@ -15,7 +15,7 @@ This custom Wear OS watch face combines functionality with style. The clear hour
 
 The watch face is designed to be:
 - **User-friendly**: Intuitive and easy to understand.
-- **Elegant**: Aesthetic design with minimal yet effective elements.
+- **Power Saver**: Optimized to consume minimal battery, ensuring prolonged device usage.
 - **Functional**: Real-time battery monitoring with clear visual cues.
 
 ## Screenshots
